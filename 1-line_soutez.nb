@@ -344,7 +344,7 @@ zlmiZw==
                "\[ZHacek]", "Subtitle", StripOnInput -> False, FontSize -> 
                 36], "Subtitle", StripOnInput -> False, FontSize -> 36], 
               "Subtitle", StripOnInput -> False, FontSize -> 36]}]], " ", 
-          "2022"}]}]}], "Subtitle", StripOnInput -> False, FontSize -> 36]},
+          "2023"}]}]}], "Subtitle", StripOnInput -> False, FontSize -> 36]},
   "RowDefault"]], "Input",
  CellChangeTimes->{{3.864222847622126*^9, 
   3.8642228540899754`*^9}},ExpressionUUID->"e7dd9b71-e97a-495e-bf85-\
